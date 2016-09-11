@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head>
+<title><strong>Sunbeam T-20 Toaster,</strong></title>
+</head>
+<body>
+    <center><img src="1.jpg"
+      alt="what image shows" width="600" height="500" 
+      ></center>
+<h1> <strong><b>Sunbeam T-20 Toaster,</strong></b></h1>
+<p>Engineered by Ludvik Koci with the design supervised by Ivar Jepson and styled by Robert D. Budlong, the T-20 was the first fully automatic toaster. An ad from 1954 states,"Automatic Beyond Belief! All you do is drop the bread ... Bread lowers itself automatically, no levers to push... Toast raises itself silently, without popping or banging."</p>
+</body>
+</html> 
